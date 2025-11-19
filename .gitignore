@@ -1,0 +1,6 @@
+venv/
+__pychache__
+node_modules/
+uploads/
+.env
+.vscode
